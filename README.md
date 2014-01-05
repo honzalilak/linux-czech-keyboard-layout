@@ -3,7 +3,7 @@ linux-czech-keyboard-layout
 
 Český keyboard layout podle Davida Grudla pro linux.
 
-David Grudl publikoval [svůj keyboard layout pro Windows](http://www.latrine.cz/webdesigneri-zvyste-svou-produktivitu), ve kterém má v rámci jednoho layout dostupné české i programátorské znaky zároveň a nemusí tak přepínat z české na anglickou klávesnici a naopak.
+David Grudl publikoval [svůj keyboard layout pro Windows](http://www.latrine.cz/webdesigneri-zvyste-svou-produktivitu), ve kterém má v rámci jednoho layoutu dostupné české i programátorské znaky zároveň a nemusí tak přepínat z české na anglickou klávesnici a naopak.
 
 Tento layout jsem si ve Windows oblíbil a proto jsem si ho vytvořil i při přechodu na linux.
 
